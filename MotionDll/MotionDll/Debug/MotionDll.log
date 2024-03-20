@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MyMath.cpp
+C:\Users\h0104\Desktop\project\MotionDll\MotionDll\MyMath.cpp(3,23): warning C4273: 'SUM': dll 연결이 일치하지 않습니다.
+C:\Users\h0104\Desktop\project\MotionDll\MotionDll\MyMath.h(10,32): message : 'SUM'의 이전 정의를 참조하십시오.
+C:\Users\h0104\Desktop\project\MotionDll\MotionDll\MyMath.cpp(7,23): warning C4273: 'Sub': dll 연결이 일치하지 않습니다.
+C:\Users\h0104\Desktop\project\MotionDll\MotionDll\MyMath.h(11,32): message : 'Sub'의 이전 정의를 참조하십시오.
+C:\Users\h0104\Desktop\project\MotionDll\MotionDll\MyMath.cpp(11,23): warning C4273: 'Mul': dll 연결이 일치하지 않습니다.
+C:\Users\h0104\Desktop\project\MotionDll\MotionDll\MyMath.h(12,32): message : 'Mul'의 이전 정의를 참조하십시오.
+C:\Users\h0104\Desktop\project\MotionDll\MotionDll\MyMath.cpp(15,23): warning C4273: 'Div': dll 연결이 일치하지 않습니다.
+C:\Users\h0104\Desktop\project\MotionDll\MotionDll\MyMath.h(13,32): message : 'Div'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
+     C:\Users\h0104\Desktop\project\MotionDll\Debug\MotionDll.lib 라이브러리 및 C:\Users\h0104\Desktop\project\MotionDll\Debug\MotionDll.exp 개체를 생성하고 있습니다.
+  MotionDll.vcxproj -> C:\Users\h0104\Desktop\project\MotionDll\Debug\MotionDll.dll

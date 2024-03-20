@@ -1,0 +1,292 @@
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\chrome_100_percent.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\chrome_200_percent.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\chrome_elf.dll
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\d3dcompiler_47.dll
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\icudtl.dat
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\libcef.dll
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\libEGL.dll
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\libGLESv2.dll
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\LICENSE.txt
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\am.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\ar.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\bg.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\bn.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\ca.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\cs.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\da.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\de.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\el.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\en-GB.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\en-US.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\es-419.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\es.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\et.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\fa.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\fi.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\fil.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\fr.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\gu.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\he.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\hi.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\hr.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\hu.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\id.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\it.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\ja.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\kn.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\ko.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\lt.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\lv.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\ml.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\mr.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\ms.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\nb.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\nl.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\pl.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\pt-BR.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\pt-PT.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\ro.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\ru.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\sk.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\sl.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\sr.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\sv.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\sw.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\ta.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\te.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\th.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\tr.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\uk.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\vi.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\zh-CN.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\locales\zh-TW.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\README.txt
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\resources.pak
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\snapshot_blob.bin
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\swiftshader\libEGL.dll
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\v8_context_snapshot.bin
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\vk_swiftshader.dll
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\vk_swiftshader_icd.json
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\vulkan-1.dll
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\Motion.exe.config
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\Motion.exe
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\Motion.pdb
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\CefSharp.Core.dll
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\CefSharp.dll
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\CefSharp.WinForms.dll
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\CefSharp.pdb
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\CefSharp.xml
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\CefSharp.Core.pdb
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\CefSharp.Core.xml
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\h0104\Desktop\project\Motion\Motion\bin\Debug\CefSharp.WinForms.xml
+C:\Users\h0104\Desktop\project\Motion\Motion\obj\Debug\Motion.csproj.AssemblyReference.cache
+C:\Users\h0104\Desktop\project\Motion\Motion\obj\Debug\Motion.Form1.resources
+C:\Users\h0104\Desktop\project\Motion\Motion\obj\Debug\Motion.Properties.Resources.resources
+C:\Users\h0104\Desktop\project\Motion\Motion\obj\Debug\Motion.csproj.GenerateResource.cache
+C:\Users\h0104\Desktop\project\Motion\Motion\obj\Debug\Motion.csproj.CoreCompileInputs.cache
+C:\Users\h0104\Desktop\project\Motion\Motion\obj\Debug\Motion.exe
+C:\Users\h0104\Desktop\project\Motion\Motion\obj\Debug\Motion.pdb
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\chrome_100_percent.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\chrome_200_percent.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\chrome_elf.dll
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\d3dcompiler_47.dll
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\icudtl.dat
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\libcef.dll
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\libEGL.dll
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\libGLESv2.dll
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\LICENSE.txt
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\am.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\ar.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\bg.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\bn.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\ca.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\cs.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\da.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\de.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\el.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\en-GB.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\en-US.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\es-419.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\es.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\et.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\fa.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\fi.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\fil.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\fr.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\gu.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\he.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\hi.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\hr.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\hu.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\id.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\it.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\ja.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\kn.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\ko.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\lt.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\lv.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\ml.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\mr.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\ms.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\nb.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\nl.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\pl.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\pt-BR.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\pt-PT.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\ro.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\ru.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\sk.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\sl.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\sr.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\sv.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\sw.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\ta.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\te.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\th.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\tr.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\uk.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\vi.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\zh-CN.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\locales\zh-TW.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\README.txt
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\resources.pak
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\snapshot_blob.bin
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\swiftshader\libEGL.dll
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\v8_context_snapshot.bin
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\vk_swiftshader.dll
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\vk_swiftshader_icd.json
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\vulkan-1.dll
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\Motion.exe.config
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\Motion.exe
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\Motion.pdb
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\CefSharp.Core.dll
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\CefSharp.dll
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\CefSharp.WinForms.dll
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\CefSharp.pdb
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\CefSharp.xml
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\CefSharp.Core.pdb
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\CefSharp.Core.xml
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\bin\Debug\CefSharp.WinForms.xml
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\obj\Debug\Motion.Form1.resources
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\obj\Debug\Motion.Properties.Resources.resources
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\obj\Debug\Motion.csproj.GenerateResource.cache
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\obj\Debug\Motion.csproj.CoreCompileInputs.cache
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\obj\Debug\Motion.exe
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\obj\Debug\Motion.pdb
+C:\Users\h0104\Desktop\project\Motion - 복사본 (2)\Motion\obj\Debug\Motion.csproj.AssemblyReference.cache
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\chrome_100_percent.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\chrome_200_percent.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\chrome_elf.dll
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\d3dcompiler_47.dll
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\icudtl.dat
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\libcef.dll
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\libEGL.dll
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\libGLESv2.dll
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\LICENSE.txt
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\am.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\ar.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\bg.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\bn.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\ca.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\cs.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\da.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\de.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\el.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\en-GB.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\en-US.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\es-419.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\es.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\et.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\fa.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\fi.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\fil.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\fr.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\gu.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\he.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\hi.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\hr.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\hu.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\id.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\it.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\ja.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\kn.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\ko.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\lt.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\lv.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\ml.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\mr.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\ms.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\nb.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\nl.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\pl.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\pt-BR.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\pt-PT.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\ro.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\ru.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\sk.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\sl.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\sr.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\sv.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\sw.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\ta.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\te.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\th.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\tr.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\uk.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\vi.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\zh-CN.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\locales\zh-TW.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\README.txt
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\resources.pak
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\snapshot_blob.bin
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\swiftshader\libEGL.dll
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\swiftshader\libGLESv2.dll
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\v8_context_snapshot.bin
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\vk_swiftshader.dll
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\vk_swiftshader_icd.json
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\vulkan-1.dll
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\Motion.exe.config
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\Motion.exe
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\Motion.pdb
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\CefSharp.Core.dll
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\CefSharp.dll
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\CefSharp.WinForms.dll
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\CefSharp.pdb
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\CefSharp.xml
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\CefSharp.Core.pdb
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\CefSharp.Core.xml
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\bin\Debug\CefSharp.WinForms.xml
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\obj\Debug\Motion.csproj.AssemblyReference.cache
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\obj\Debug\Motion.Form1.resources
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\obj\Debug\Motion.Properties.Resources.resources
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\obj\Debug\Motion.csproj.GenerateResource.cache
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\obj\Debug\Motion.csproj.CoreCompileInputs.cache
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\obj\Debug\Motion.csproj.CopyComplete
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\obj\Debug\Motion.exe
+C:\Users\h0104\Desktop\201910713 홍승백 프로젝트 최종 결과물\Motion\Motion\obj\Debug\Motion.pdb
