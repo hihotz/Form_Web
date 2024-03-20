@@ -2,6 +2,7 @@
 * 용량 관계로 CefSharp 패키지를 제외하고 업로드합니다
 * 따라서 해당 프로젝트를 실행하기 위해서 Nuget으로 CefSharp를 설치해야합니다
 * 설치해야하는 패키지의 버전은 사진과 같습니다
+  
  ![image](https://github.com/hihotz/Form_Web/assets/74196405/f0eeb436-c2a6-4113-a625-2ecdfabcffaf)
 
 winform에 cefsharp을 사용한 브라우저입니다
